@@ -97,3 +97,8 @@ is your own `assets/logo.png`.
 
 Personal project, not affiliated with or endorsed by any watch manufacturer. Trademarks
 belong to their respective owners. Distributed by USB sideload.
+
+## License
+
+Copyright © 2026 d-packs. Licensed under the **GNU General Public License v3.0** —
+see [LICENSE](LICENSE).
