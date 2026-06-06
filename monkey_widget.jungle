@@ -1,0 +1,2 @@
+project.manifest = manifest_widget.xml
+base.sourcePath = source;source-widget

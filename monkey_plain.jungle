@@ -1,0 +1,2 @@
+project.manifest = manifest_plain.xml
+base.sourcePath = source;source-plain

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application entry="FieldFaceApp"
+                    id="5b3f9ecc87b04fc3893f3a27c07b7f6d"
+                    launcherIcon="@Drawables.LauncherIcon"
+                    name="@Strings.AppNamePlain"
+                    type="watchface"
+                    minApiLevel="5.0.0">
+        <iq:products>
+            <iq:product id="venu445mm"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>

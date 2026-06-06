@@ -1,0 +1,15 @@
+# build output
+bin/
+*.prg
+*.prg.debug.xml
+
+# signing keys — never commit
+*.der
+*.pem
+developer_key
+
+# your logo + dials generated at build time
+assets/logo.png
+resources/drawables/dial.png
+resources/drawables/dial_widget.png
+resources/drawables/dial_plain.png
