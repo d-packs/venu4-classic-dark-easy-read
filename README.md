@@ -12,6 +12,14 @@ hand-drawn set. Two variants are produced from one source:
 > **No logo is shipped.** The dial's logo slot (below the 12) is **empty** in this repo.
 > You add your own logo at build time — see below.
 
+## Screenshots
+
+| With date wheel | Plain "3" |
+|:---:|:---:|
+| ![Field Inverted — with date wheel](screenshots/widget.png) | ![Field Inverted — plain](screenshots/plain.png) |
+
+*(Shown with an empty logo slot. Garmin Venu 4 45 mm.)*
+
 ## Build your own
 
 Works on **any Linux** distro and on **Windows via WSL** (run it inside the WSL/Linux shell).
